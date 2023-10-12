@@ -1,5 +1,5 @@
 {
-  "name": "@daniel/pack-cli",
+  "name": "@onpure/pack-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
