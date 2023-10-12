@@ -62,5 +62,7 @@
   },
   "devDependencies": {
     "webpack-bundle-analyzer": "^4.9.1"
-  }
+  },
+  "publishConfig": { 
+    "@onpure:registry": "https://npm.pkg.github.com" }
 }
